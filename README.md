@@ -8,12 +8,15 @@ calc_20.sh - script which does calculations with nice 20
 calc_-20.sh - script which does calculations with nice -20 
 
 Example of console output:
+
 $ bash process.sh
+
 $ This result is for nice -20:50000005000000
 
 real    0m36.313s
 user    0m31.381s
 sys     0m4.214s
+
 this result is for nice 20: 50000005000000
 
 real    1m14.507s
