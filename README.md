@@ -1,4 +1,5 @@
 This is homework for Processes lesson on Otus platform
+
 Here are the files: 
 processes.sh - script which produces 2 parallel processes with different CPU priority (nice 20 and nice -20) and high usage of CPU 
 calc_20.sh - script which does calculations with nice 20 
